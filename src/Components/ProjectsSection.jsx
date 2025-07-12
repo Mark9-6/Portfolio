@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Food Delivery Web App",
-    description: "A delivery app with user authentication and payment processing.",
-    image: "/projects/project1.jpeg",
-    tags: ["React", "NodeJs", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/Mark9-6/next-project",
+    title: "Car Rental Application",
+    description: "A car rental app with user authentication and admin dashboard.",
+    image: "/projects/project1.png",
+    tags: ["React", "NodeJs", "MongoDB"],
+    demoUrl: "https://carrental-ecru.vercel.app/",
+    githubUrl: "https://github.com/Mark9-6/CARRENTAL",
   },
   {
     id: 2,
