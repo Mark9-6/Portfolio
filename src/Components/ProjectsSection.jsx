@@ -3,22 +3,21 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
+    title: "AI tools application",
+    description: "A multi AI tools app with features like image generation, title generation, resume review etc.",
+    image: "/projects/project1.png",
+    tags: ["React", "NodeJs", "PostgreSQL","Clerk Auth"],
+    demoUrl: "quick-ai-hgx8.vercel.app",
+    githubUrl: "https://github.com/Mark9-6/QuickAI",
+  },
+  {
+    id: 1,
     title: "Car Rental Application",
     description: "A car rental app with user authentication and admin dashboard.",
-    image: "/projects/project1.png",
+    image: "/projects/project2.png",
     tags: ["React", "NodeJs", "MongoDB"],
     demoUrl: "https://carrental-ecru.vercel.app/",
     githubUrl: "https://github.com/Mark9-6/CARRENTAL",
-  },
-  {
-    id: 2,
-    title: "Prompt App",
-    description:
-      "Interactive AI powered prompts with NextJs.",
-    image: "/projects/project2.jpeg",
-    tags: ["JavaScript", "Saas", "Next.js"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/Mark9-6/next-project",
   },
   {
     id: 3,
