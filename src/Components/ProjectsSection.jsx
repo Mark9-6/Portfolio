@@ -7,7 +7,7 @@ const projects = [
     description: "A multi AI tools app with features like image generation, title generation, resume review etc.",
     image: "/projects/project1.png",
     tags: ["React", "NodeJs", "PostgreSQL","Clerk Auth"],
-    demoUrl: "quick-ai-hgx8.vercel.app",
+    demoUrl: "https://quick-ai-hgx8.vercel.app/",
     githubUrl: "https://github.com/Mark9-6/QuickAI",
   },
   {
